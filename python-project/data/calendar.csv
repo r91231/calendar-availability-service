@@ -1,0 +1,20 @@
+﻿person_name,event_name,start_time,end_time
+Alice,A,07:00,08:00
+Alice,Morning meeting,08:00,09:30
+Alice,Meeting,09:30,11:30
+Alice,Start Day,11:30,12:20
+Alice,Lunch with Jack,13:00,14:00
+Alice,Study,16:00,16:30
+Bob,Morning meeting,08:00,09:30
+Bob,Morning meeting 2,09:30,09:40
+Bob,Q3 review,10:00,11:30
+Bob,Lunch and siesta,13:00,15:00
+Bob,Study,16:00,16:30
+Efrat,Eating,07:00,09:00
+Eli,Study,16:00,16:30
+Jack,Morning meeting,08:00,08:50
+Jack,Sales call,09:00,09:40
+Jack,Lunch with Alice,13:00,14:00
+Ruti,Start Day,11:30,12:20
+Ruti,Study,16:00,16:30
+Tamar,Eating,07:00,09:00
