@@ -1,5 +1,5 @@
 # calendar-availability-service
-A Python-based meeting scheduling application designed to calculate shared availability among multiple participants, process calendar entries from CSV storage, and book new events with automated persistence and sorting.
+A Python-based meeting scheduling application designed to calculate shared availability among multiple participants, process calendar entries from CSV storage, and book new events with automated persistence and sorting!
 
 ---
 
